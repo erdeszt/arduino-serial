@@ -1,9 +1,6 @@
 #include "serial.h"
 
-#include <stdint.h>
-#include <unistd.h>
 #include <fcntl.h>
-#include <termios.h>
 #include <string.h>
 #include <assert.h>
 

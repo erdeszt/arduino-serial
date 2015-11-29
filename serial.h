@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <stdint.h>
+#include <unistd.h>
 #include <termios.h>
 
 /** Serial communication api for Arduino Uno/Nano
